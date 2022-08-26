@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @strange-supreme
+- 👋 Hi, I’m Mac
 - 👀 I’m interested in projects!
 - 🌱 I’m currently learning Web Devolpment (HTML,CSS,JavaScript).
 - 💞️ I’m looking for a Job when I'm Job ready!
